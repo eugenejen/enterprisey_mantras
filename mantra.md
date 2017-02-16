@@ -58,20 +58,25 @@ edges, the edges convey a sense of collaboration and possibility of achievement.
 9. SDEGH Software Lifecycle
 ===========================
 
-10. Security by Absurdity
+10. JITAC
+===========================
+Creating agreed-upon acronyms in advance risks wasted coordination work: an
+enterprisey agile team should skip this step.
+
+11. Security by Absurdity
 =========================
 
-11. Centralized Microservice
+12. Centralized Microservice
 ============================
 
-12. Headless Automation
+13. Headless Automation
 =======================
 
-13. Discretize Continuous Deployement
+14. Discretize Continuous Deployement
 =====================================
 
-14. Zero Change Development
+15. Zero Change Development
 ===========================
 
-15. Just In Time Roadmap
+16. Just In Time Roadmap
 ==========================
