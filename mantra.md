@@ -80,3 +80,9 @@ enterprisey agile team should skip this step.
 
 16. Just In Time Roadmap
 ==========================
+
+17. Opportunistic Standardization
+=================================
+
+18. Schroedinger Consistency
+============================
