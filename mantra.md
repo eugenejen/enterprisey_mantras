@@ -86,3 +86,6 @@ enterprisey agile team should skip this step.
 
 18. Schroedinger Consistency
 ============================
+
+19. BGPify your team infromation flow
+=====================================
