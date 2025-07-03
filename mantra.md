@@ -92,6 +92,7 @@ enterprisey agile team should skip this step.
 
 20. The 3 Os of planning
 ========================
+
 When planning future work, one of three strategies can be used:
  * Outcome-driven planning: find the most valuable outcomes and plan on how to achieve them; prioritize by value
  * Output-driven planning: find all the projects that could be worked on and maximimize work in progress per unit of time; every project is highest priority
